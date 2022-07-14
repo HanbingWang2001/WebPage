@@ -24,7 +24,7 @@ I won scholarships in Research Innovation and Aesthetic Education Accomplishment
 My research interest includes recommender system, machine learning and deep learning. I have submitted a paper as second author to TOIS (on review) and two papers in progress.For curriculum reasons, I also have knowledge about computer visions and telecommunication where I own three patents. 
 
 IELTS: 7.5, GPA: 3.8/5.0. 
-Specialty: Piano, electronic organ, badminton. 
+Specialty: Piano level 10, Electronic Organ level 10, Badminton. 
 
 <!-- I am willing to learning new things and have good self-disipline and strong mental resiliency when facing adversities. Hopefully, we can speak about research in the future.  -->
 
@@ -107,8 +107,8 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - *2021.10* Third Prize in Mathematical Contest in Modeling. 
 - *2021.5* Third Prize in 2021 National English Competition for college students. 
 - *2020.10* Third Prize in National Undergraduate Electronic Design Contest. 
-- Fifth place in badminton competition of Shandong University
-- Piano level 10, electronic organ level 10
+- *2020.11* Fifth place in badminton competition of Shandong University
+
 # 📖 Educations
 - *2019.06 - 2022.07 (now)*, Bachelor, Shandong University, Qingdao. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
