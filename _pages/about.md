@@ -19,6 +19,8 @@ redirect_from:
 
 I study as a junior at Chongxin class(elite class) majoring in telecommunication at school of ISE at Shandong University(山东大学信息科学与工程学院) and I also work as a research assistant at [IR Lab](https://ir.sdu.edu.cn/index.htm) in school of computer science（山东大学计算机科学与技术学院）for over a year, advised by Prof. Pengjie Ren(任鹏杰) and Prof. Xinxin(辛鑫).
 
+I won scholarships in Research Innovation and Aesthetic Education Accomplishment and was selected to an elite class called Chongxin Class.
+
 My research interest includes recommender system, machine learning and deep learning. I have submitted a paper as a second author (on review) and two papers in progress. I own three patents. 
 
 IELTS: 7.5, GPA: 3.8/5.0, 
@@ -52,7 +54,7 @@ XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINL
 
 <!--                          -->
 # 🛠️ Project experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/tois23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/Ascend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A full stack driverless assistant system based on Huawei Ascend]
@@ -69,7 +71,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/tois23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[law]
+<!-- [law]
 
 **Hanbing Wang**, Cheng Zhang, Zihao Xiao, Chengzhuo Li, Hankang Sun
 
@@ -80,9 +82,9 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/tois23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/transfer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A real time image style transfer framework]
+[A real time image style transfer system]
 
 Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
@@ -105,6 +107,9 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div>
 </div>
 
+- **Aizoo - A visual deep learning model building and cloud computing platform** I'm in charge of writing some operators and collect information about common operators. 
+- **Laboratory instrument and equipment management system** includes: Front, Back-End and MySQL Database.  -->
+
 <!--                -->
 
 # 🎖 Honors and Awards
@@ -114,7 +119,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - Fifth place in badminton competition of Shandong University
 - Piano level 10, electronic organ level 10
 # 📖 Educations
-- *2019.06 - 2022.07 (now)*, Junior, Shandong University, Qingdao. 
+- *2019.06 - 2022.07 (now)*, Bachelor, Shandong University, Qingdao. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks -->
