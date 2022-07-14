@@ -60,7 +60,11 @@ XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINL
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Driverless Assistant Aystem</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<font color=Blue>
+
 **A full stack driverless assistant system based on Huawei Ascend**
+
+</font>
 
 Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
