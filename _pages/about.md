@@ -71,6 +71,19 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/projects/transfer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A real time image style transfer system]
+
+Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
+
+[**Project information**]
+- We invented a real time style transfer framework which can transfer the video style captured by a camera and display it on a webpage. We also develop a computer application which can achieve style transfer as long as you download our app. 
+- Software includes real time image(video) style transfer algorithm, webpage design, video streaming, application development. 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/law.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,18 +97,6 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/projects/transfer.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A real time image style transfer system]
-
-Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
-
-[**Project information**]
-- We invented a real time style transfer framework which can transfer the video style captured by a camera and display it on a webpage. We also develop a computer application which can achieve style transfer as long as you download our app. 
-- Software includes real time image(video) style transfer algorithm, webpage design, video streaming, application development. 
-</div>
-</div>
 
 - **Aizoo - A visual deep learning model building and cloud computing platform** I'm in charge of writing some operators and collect information about common operators. 
 - **Laboratory instrument and equipment management system** includes: Front, Back-End and MySQL Database. 
