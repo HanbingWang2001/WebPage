@@ -61,11 +61,7 @@ XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINL
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Driverless Assistant Aystem</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font color=Blue>
-
-**A full stack driverless assistant system based on Huawei Ascend**
-
-</font>
+[A full stack driverless assistant system based on Huawei Ascend]
 
 Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
@@ -79,7 +75,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/projects/transfer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A real time image style transfer system**
+[A real time image style transfer system]
 
 Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
@@ -93,7 +89,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/law.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Research on copyright protection obligations and technical regulation of cloud storage service providers based on deep learning ——Take Baidu online disk as an example**
+[Research on copyright protection obligations and technical regulation of cloud storage service providers based on deep learning ——Take Baidu online disk as an example]
 
 **Hanbing Wang**, Cheng Zhang, Zihao Xiao, Chengzhuo Li, Hankang Sun, Xinyu Shen
 
