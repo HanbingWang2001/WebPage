@@ -19,17 +19,20 @@ redirect_from:
 
 I study as a junior at Chongxin class(elite class) majoring in telecommunication at school of ISE at Shandong University(山东大学信息科学与工程学院) and I also work as a research assistant at [IR Lab](https://ir.sdu.edu.cn/index.htm) in school of computer science（山东大学计算机科学与技术学院）for over a year, advised by Prof. Pengjie Ren(任鹏杰) and Prof. Xinxin(辛鑫).
 
-I won scholarships in Research Innovation and Aesthetic Education Accomplishment and was selected to an elite class called Chongxin Class.
+I won scholarships in Research Innovation and Aesthetic Education Accomplishment and was selected to an elite class called Chongxin Class, supervised by Prof. [Honchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/index.htm).
 
-My research interest includes recommender system, machine learning and deep learning. I have submitted a paper as a second author (on review) and two papers in progress. I own three patents. 
+My research interest includes recommender system, machine learning and deep learning. I have submitted a paper as second author to TOIS (on review) and two papers in progress.For curriculum reasons, I also have knowledge about computer visions and telecommunication where I own three patents. 
 
-IELTS: 7.5, GPA: 3.8/5.0, 
+IELTS: 7.5, GPA: 3.8/5.0. 
 Specialty: Piano, electronic organ, badminton. 
+
+<!-- I am willing to learning new things and have good self-disipline and strong mental resiliency when facing adversities. Hopefully, we can speak about research in the future.  -->
+
 <!-- Ascend project, Aizoo project, real time stytle transfer app, robot
 communication courses,  -->
 
 
-My research interest includes Data mining and recommendation system. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes Data mining and recommendation system. I have submitted a paper as second author at the top international AI journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar </a><a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and still have two papers in progress. I also own three patents in telecommunication.  -->
 
 
 <!-- # 🔥 News
@@ -54,7 +57,7 @@ XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINL
 
 <!--                          -->
 # 🛠️ Project experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Driverless Assistant Aystem</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A full stack driverless assistant system based on Huawei Ascend]
@@ -90,19 +93,6 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 [**Project information**]
 - We invented a real time style transfer framework which can transfer the video style captured by a camera and display it on a webpage. We also develop a computer application which can achieve style transfer as long as you download our app. 
-- Software includes real time image(video) style transfer algorithm, webpage design, video streaming, application development. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/tois23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Aizoo]
-
-**Hanbing Wang**, Cheng Zhang, Zihao Xiao, Chengzhuo Li, Hankang Sun
-
-[**Project information**]
-- This is an interdisciplinary project between computer science and law, 
 - Software includes real time image(video) style transfer algorithm, webpage design, video streaming, application development. 
 </div>
 </div>
