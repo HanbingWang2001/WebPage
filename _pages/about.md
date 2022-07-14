@@ -38,7 +38,7 @@ My research interest includes Data mining and recommendation system. I have publ
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/tois23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/publications/tois23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On the User Behavior Leakage from Recommender System Exposure](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -54,7 +54,7 @@ XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINL
 
 <!--                          -->
 # 🛠️ Project experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/Ascend.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A full stack driverless assistant system based on Huawei Ascend]
@@ -68,21 +68,21 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/tois23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/law.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[law]
+[Research on copyright protection obligations and technical regulation of cloud storage service providers based on deep learning ——Take Baidu online disk as an example]
 
-**Hanbing Wang**, Cheng Zhang, Zihao Xiao, Chengzhuo Li, Hankang Sun
+**Hanbing Wang**, Cheng Zhang, Zihao Xiao, Chengzhuo Li, Hankang Sun, Xinyu Shen
 
 [**Project information**]
 - This is an interdisciplinary project between computer science and law, 
-- Software includes real time image(video) style transfer algorithm, webpage design, video streaming, application development. 
+- Knowledge includes fast video/image/text detection and comparison algorithm in various situations. 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/transfer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/projects/transfer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A real time image style transfer system]
 
@@ -108,7 +108,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div>
 
 - **Aizoo - A visual deep learning model building and cloud computing platform** I'm in charge of writing some operators and collect information about common operators. 
-- **Laboratory instrument and equipment management system** includes: Front, Back-End and MySQL Database.  -->
+- **Laboratory instrument and equipment management system** includes: Front, Back-End and MySQL Database. 
 
 <!--                -->
 
