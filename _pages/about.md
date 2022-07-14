@@ -68,10 +68,10 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/tois23.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/tois23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [law]
+[law]
 
 **Hanbing Wang**, Cheng Zhang, Zihao Xiao, Chengzhuo Li, Hankang Sun
 
