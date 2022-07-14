@@ -24,6 +24,7 @@ I won scholarships in Research Innovation and Aesthetic Education Accomplishment
 My research interest includes recommender system, machine learning and deep learning. I have submitted a paper as second author to TOIS (on review) and two papers in progress.For curriculum reasons, I also have knowledge about computer visions and telecommunication where I own three patents. 
 
 IELTS: 7.5, GPA: 3.8/5.0. 
+
 Specialty: Piano level 10, Electronic Organ level 10, Badminton. 
 
 <!-- I am willing to learning new things and have good self-disipline and strong mental resiliency when facing adversities. Hopefully, we can speak about research in the future.  -->
