@@ -133,9 +133,9 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 <!--                -->
 
 # 🎖 Honors and Awards
--  First prize scholarships in Research Innovation and Aesthetic Education Accomplishment(Top 3%)
 - *2021.10* Third Prize in Mathematical Contest in Modeling. 
 - *2021.10* First prize scholarships in Research Innovation and Aesthetic Education Accomplishment
+- *2021.8*  Second prize in Mathematical Contest in modeling of Shandong University
 - *2021.5* Third Prize in 2021 National English Competition for college students. 
 - *2020.10* Third Prize in National Undergraduate Electronic Design Contest. 
 - *2020.10* First prize scholarships in Research Innovation and Aesthetic Education Accomplishment
@@ -152,4 +152,4 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2021.05 - 2022.07*, [IR lab](https://ir.sdu.edu.cn/index.htm), Qingdao, China.
+- *2021.05 - 2022.07*, Research Assistant, [IR lab](https://ir.sdu.edu.cn/index.htm), Qingdao.
