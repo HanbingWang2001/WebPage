@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    # url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    # url: "/#-invited-talks"
 
   - title: "Internships"
     url: "/#-internships"
