@@ -147,9 +147,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💬 Invited Talks
-- Nothing
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- Not yet.
 
 # 💻 Internships
 - *2021.05 - 2022.07*, Research Assistant, [IR lab](https://ir.sdu.edu.cn/index.htm), Qingdao.
