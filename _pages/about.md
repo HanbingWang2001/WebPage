@@ -146,7 +146,8 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - *2019.06 - 2022.07 (now)*, Bachelor, Shandong University, Qingdao. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 💬 Invited Talks -->
+# 💬 Invited Talks
+- Nothing
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
