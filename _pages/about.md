@@ -135,12 +135,12 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 # 🎖 Honors and Awards
 - *2021.10* Third Prize in Mathematical Contest in Modeling. 
 - *2021.10* First prize scholarships in Research Innovation and Aesthetic Education Accomplishment
-- *2021.8*  Second prize in Mathematical Contest in modeling of Shandong University
-- *2021.5* Third Prize in 2021 National English Competition for college students. 
+- *2021.08*  Second prize in Mathematical Contest in modeling of Shandong University
+- *2021.05* Third Prize in 2021 National English Competition for college students. 
 - *2020.10* Third Prize in National Undergraduate Electronic Design Contest. 
 - *2020.10* First prize scholarships in Research Innovation and Aesthetic Education Accomplishment
 - *2020.11* Fifth place in badminton competition of Shandong University
-- *2020.6* Outstanding Youth Volunteer. 
+- *2020.06* Outstanding Youth Volunteer. 
 
 # 📖 Educations
 - *2019.06 - 2022.07 (now)*, Bachelor, Shandong University, Qingdao. 
