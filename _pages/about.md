@@ -105,7 +105,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/projects/transfer.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"></div>
+<div class='paper-box-text' markdown="1">
 
 [A real time image style transfer system]
 
