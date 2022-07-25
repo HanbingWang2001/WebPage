@@ -127,7 +127,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 [**Project information**]
 - Developed a online equipment Management System including React based front-end, Springboot based back-end and MySQL Database. 
-- Functions includes data addition, deletion, modification query, system login, fuzzy search, paging display, data statistics(taccording to price or quantity) statistics display(line chart).
+- Functions includes data addition, deletion, modification query, system login, fuzzy search, paging display, data statistics(according to price or quantity) and display(line chart).
 </div>
 </div>
 
