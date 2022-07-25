@@ -116,7 +116,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 [**Project information**]
 - Invented a real time style transfer framework which can transfer the image/video style captured by a camera and display it on a webpage. 
 - Developed a computer application which can achieve style transfer as long as you download our app. 
-- Software includes real time style transfer algorithm, webpage design, video streaming, hardware programming and application development. 
+- Software includes real time style transfer algorithm, webpage design, video streaming and application development. 
 </div>
 </div>
 
@@ -129,6 +129,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 [**Project information**]
 - Developed a online equipment Management System including React based front-end, Springboot based back-end and MySQL Database. 
+- Functions includes data addition, deletion, modification query, system login, fuzzy search, paging display, data statistics(taccording to price or quantity) statistics display(line chart).
 </div>
 </div>
 
@@ -153,7 +154,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 **Hanbing Wang**, Xiaoyu Ji, Bingyang Cui, Baoxun Du, Zihan Liu
 
 [**Project information**]
-- This is an interdisciplinary project between computer science and biology, 
+- This is an interdisciplinary project between computer science and biology.
 - Mapped the complete signal pathway of hematopoietic cells in human body, and made a web page for display. The webpage supports addition, deletion, modification, search of genes, fisheye magnification and freely adjusting gene arrangement. 
 </div>
 </div>
@@ -164,12 +165,12 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 🎖 Honors and Awards
 - *2021.10* Third Prize in Mathematical Contest in Modeling. 
-- *2021.10* First prize scholarships in Research Innovation and Aesthetic Education Accomplishment
-- *2021.08*  Second prize in Mathematical Contest in modeling of Shandong University
+- *2021.10* First prize scholarships in Research Innovation and Aesthetic Education Accomplishment.
+- *2021.08* Second prize in Mathematical Contest in modeling of Shandong University.
 - *2021.05* Third Prize in 2021 National English Competition for college students. 
 - *2020.10* Third Prize in National Undergraduate Electronic Design Contest. 
-- *2020.10* First prize scholarships in Research Innovation and Aesthetic Education Accomplishment
-- *2020.11* Fifth place in badminton competition of Shandong University
+- *2020.10* First prize scholarships in Research Innovation and Aesthetic Education Accomplishment.
+- *2020.11* Fifth place in badminton competition of Shandong University.
 - *2020.06* Outstanding Youth Volunteer. 
 
 # 📖 Educations
