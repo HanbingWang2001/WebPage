@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am doing my bachelor of science in telecommunication at ChongXin College(崇新学堂), Shandong University and expected to graduate in June 2023. I also work as a research assistant at [IR Lab](https://ir.sdu.edu.cn/index.htm) in school of computer science（山东大学计算机科学与技术学院）for over a year, advised by Prof. Pengjie Ren(任鹏杰) and Prof. Xinxin(辛鑫).
+I am doing my bachelor of science in telecommunication at ChongXin College(崇新学堂), Shandong University and expected to graduate in June 2023. I also work as a research assistant at [IR Lab](https://ir.sdu.edu.cn/index.htm) in school of computer science（山东大学计算机科学与技术学院）for over a year, where I dive into recommender system, advised by Prof. Pengjie Ren(任鹏杰) and Prof. Xinxin(辛鑫).
 
 <!-- I won first prize scholarships in Research Innovation and Aesthetic Education Accomplishment(Top 3%) and was selected Chongxin College.  -->
 <!-- , supervised by Prof. [Honchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/index.htm). -->
