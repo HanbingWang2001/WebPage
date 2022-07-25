@@ -62,7 +62,7 @@ privacy-protection mechanism to solve the problem.
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!--                          -->
+<span class='anchor' id='project-experience'></span>
 # 🛠️ Project experience
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
@@ -127,7 +127,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 [**Project information**]
 - Developed a online equipment Management System including React based front-end, Springboot based back-end and MySQL Database. 
-- Functions includes data addition, deletion, modification query, system login, fuzzy search, paging display, data statistics(according to price or quantity) and display(line chart).
+- Functions includes data addition, deletion, modification query, system login, fuzzy search, paging display, data statistics(according to price or quantity) and statistics display(line chart).
 </div>
 </div>
 
