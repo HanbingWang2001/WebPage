@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am doing my bachelor of science in telecommunication at ChongXin College(崇新学堂), Shandong University and expected to graduate in June 2023. I also work as a research assistant at [IR Lab](https://ir.sdu.edu.cn/index.htm) in school of computer science（山东大学计算机科学与技术学院）for over a year, where I dive into recommender system, advised by Prof. Pengjie Ren(任鹏杰) and Prof. Xinxin(辛鑫).
+I am doing my bachelor of science in telecommunication at ChongXin College(崇新学堂), Shandong University and expected to graduate in June 2023. I also work as a research assistant at [IR Lab](https://ir.sdu.edu.cn/index.htm) in school of computer science（山东大学计算机科学与技术学院）for over a year, where I dive into recommender system, advised by Prof. Pengjie Ren(任鹏杰) and Prof. Xin Xin(辛鑫).
 
 <!-- I won first prize scholarships in Research Innovation and Aesthetic Education Accomplishment(Top 3%) and was selected Chongxin College.  -->
 <!-- , supervised by Prof. [Honchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/index.htm). -->
@@ -26,7 +26,7 @@ My research interest includes recommender system and graph mining. I have submit
 
 For curriculum reasons, I also have knowledge about computer vision, front-end development and electrical engineering. I hold three patents in telecommunication. 
 
-I have a good command of English(IELTS: 7.5) and a good knowledge of recommender system. I'm familiar with popular recommendation algorithms, common datasets, training losses and evaluation metrics. I'm also good at programming, such as data processing or writing codes to implement ideas. 
+I have a good command of English(IELTS: 7.5) and a good knowledge of recommender system. I'm familiar with popular recommendation algorithms, common datasets, training losses and evaluation metrics. I'm also good at programming to process datasets and implement ideas. 
 
 Interest: Piano(Gr. 10), Electronic Organ(Gr. 10), Badminton(No.5 men's team in SDUQD). 
 
@@ -73,7 +73,7 @@ privacy-protection mechanism to solve the problem.
 Pengjie Ren, **Hanbing Wang**, Hongtao Tian, Guojun Yan, Chaoyu Shi, Min Wei, Jiyuan Yang, et al.
 
 [**Project information**]
-- Develop and test some operators, collect information about those operators(including formulas, backgrounds, source papers, etc) and implementing a pedestrian detection task based on Aizoo. 
+- Develop and test some operators, collect information about these operators(including formulas, backgrounds, source papers, etc) and implement a pedestrian detection task based on Aizoo. 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronic perpetual calendar</div><img src='images/projects/calendar.jpg' alt="sym" width="100%"></div></div>
@@ -84,7 +84,7 @@ Pengjie Ren, **Hanbing Wang**, Hongtao Tian, Guojun Yan, Chaoyu Shi, Min Wei, Ji
 **Hanbing Wang**
 
 [**Project information**]
-- Invented a electronic perpetual calendar from scratch. 
+- Invented an electronic perpetual calendar from scratch. 
 - Circuit design and printing, MCU programming, application of various chips such as HC-05, DHT11, DS1302, LCD1602, MQ-2, etc. 
 - Functions include time display, solar terms display, conversion of lunar calendar and Gregorian calendar, alarm clock with customized music, smoke alarm, measurements of temperature and humidity, remote Bluetooth control. 
 </div>
@@ -126,7 +126,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 **Hanbing Wang**
 
 [**Project information**]
-- Developed a online equipment Management System including React based front-end, Springboot based back-end and MySQL Database. 
+- Developed an online equipment Management System including React based front-end, Springboot based back-end and MySQL Database. 
 - Functions includes data addition, deletion, modification query, system login, fuzzy search, paging display, data statistics(according to price or quantity) and statistics display(line chart).
 </div>
 </div>
