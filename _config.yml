@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanbing Wang"
-description              : "Junior at Shandong University, Focusing on recommender system and graph mining. "
+description              : "Senior at Shandong University, Focusing on recommender system and graph mining. "
 repository               : "HanbingWang2001/WebPage"
 google_scholar_stats_use_cdn : true
 
@@ -38,6 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : "HanbingWang2001"
+  # CV               : "CV/HanbingWang.pdf"
   google_plus      :
   keybase          :
   instagram        :
@@ -49,7 +50,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  CV               : "CV/HanbingWang.pdf"
   tumblr           :
   twitter          : 
   vine             :
