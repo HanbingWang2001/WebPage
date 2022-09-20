@@ -28,6 +28,8 @@ I also have two papers on going: one is about multi-behavior recommendation (WWW
 
 I am also familiar with computer vision, front-end development and electrical engineering.
 
+Here is My [CV]("CV/HanbingWang.pdf")
+
 <!-- I have a good command of English(IELTS: 7.5) and a good knowledge of recommender system. I'm familiar with popular recommendation algorithms, common datasets, training losses and evaluation metrics. I'm also good at programming to process datasets and implement ideas. 
 
 Interest: Piano(Gr. 10), Electronic Organ(Gr. 10), Badminton(No.5 men's team in SDUQD).  -->
