@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am doing my bachelor of science in telecommunication at ChongXin College(崇新学堂), Shandong University and expected to graduate in June 2023. I also work as a research assistant at [IR Lab](https://ir.sdu.edu.cn/index.htm) in school of computer science（山东大学计算机科学与技术学院）for over a year, where I dive into recommender system, advised by Prof. Pengjie Ren(任鹏杰) and Prof. Xin Xin(辛鑫).
+I am doing my bachelor of science in telecommunication at ChongXin College(崇新学堂), Shandong University and expected to graduate in June 2023. I joined [Information Retrieval Lab](https://ir.sdu.edu.cn/index.htm) in SDU a year ago, working with [Zhaochun Ren(任昭春)](https://ir.sdu.edu.cn/~zhaochunren/), [Pengjie Ren(任鹏杰)](https://pengjieren.github.io/) and [Xin Xin(辛鑫)](https://xinxin-me.github.io/).
 
 <!-- I won first prize scholarships in Research Innovation and Aesthetic Education Accomplishment(Top 3%) and was selected Chongxin College.  -->
 <!-- , supervised by Prof. [Honchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/index.htm). -->
 
-My research interest includes recommender system and graph mining. I have submitted a paper as second author to TOIS (accept with minor revision), which investigates the problem of user behavior leakage in recommender system. I still have two papers on going: one is about mitigating popularity bias in graph-based recommendations and the other one is concerning denoising implicit feedback for recommendations. 
+My research interest is mainly recommender system. I have submitted a paper as second author to TOIS (Minor), which investigates user privacy leakage in recommender system. I have three patents and two first-author papers about machine learning submitted to EI Compendex. I also have two papers on going: one is about multi-behavior recommendation (WWW2023), and the other is about tackling fairness issues in graph-based recommendations via multi-task learning, graph augmentation, and reinforcement learning (SIGIR2023).
 
-For curriculum reasons, I also have knowledge about computer vision, front-end development and electrical engineering. I hold three patents in telecommunication. 
+I also have knowledge about computer vision, front-end development and electrical engineering.
 
-I have a good command of English(IELTS: 7.5) and a good knowledge of recommender system. I'm familiar with popular recommendation algorithms, common datasets, training losses and evaluation metrics. I'm also good at programming to process datasets and implement ideas. 
+<!-- I have a good command of English(IELTS: 7.5) and a good knowledge of recommender system. I'm familiar with popular recommendation algorithms, common datasets, training losses and evaluation metrics. I'm also good at programming to process datasets and implement ideas. 
 
-Interest: Piano(Gr. 10), Electronic Organ(Gr. 10), Badminton(No.5 men's team in SDUQD). 
+Interest: Piano(Gr. 10), Electronic Organ(Gr. 10), Badminton(No.5 men's team in SDUQD).  -->
 
 <!-- I am willing to learning new things and have good self-disipline and strong mental resiliency when facing adversities. Hopefully, we can speak about research in the future.  -->
 
