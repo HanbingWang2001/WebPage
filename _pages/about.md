@@ -57,9 +57,8 @@ communication courses,  -->
 XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINLEI SHI, ZHUMIN CHEN, ZHAOCHUN REN
 
 **Project**
-- Accept with minor revision. 
-- Investigate the problem of user behavior leakage in the field of recommender systems, and propose a
-privacy-protection mechanism to solve the problem. 
+- Investigate the problem of user behavior leakage in recommender systems and we propose a
+privacy-protection mechanism to solve the problem correspondingly. 
 
 </div>
 </div>
