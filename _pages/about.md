@@ -22,9 +22,11 @@ I am doing my bachelor of science in telecommunication at ChongXin College(å´‡æ–
 <!-- I won first prize scholarships in Research Innovation and Aesthetic Education Accomplishment(Top 3%) and was selected Chongxin College.  -->
 <!-- , supervised by Prof. [Honchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/index.htm). -->
 
-My research interest is mainly recommender system. I have submitted a paper as second author to TOIS (Minor), which investigates user privacy leakage in recommender system. I have three patents and two first-author papers about machine learning submitted to EI Compendex. 
+My research interest is mainly recommender system. I have submitted a paper as second author to TOIS (Accepted), which investigates user privacy leakage in recommender system. I have three patents and two first-author papers about machine learning submitted to EI Compendex. 
 
-I also have two papers on going: one is about multi-behavior recommendation (WWW2023), and the other is about tackling fairness issues in graph-based recommendations via multi-task learning, graph augmentation, and reinforcement learning (SIGIR2023).
+I am almost finished with a paper about multi-behavior recommendation.
+
+I also have two papers on going: one is about tackling fairness/bias issues in graph-based recommendations via reinforcement learning, multi-task learning and graph augmentation (SIGIR2023). The other is about pretrained music recommendation collaborating with Westlake university and Tencent.
 
 I am also familiar with computer vision, front-end development and electrical engineering.
 
