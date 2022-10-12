@@ -58,12 +58,15 @@ communication courses,  -->
 
 XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINLEI SHI, ZHUMIN CHEN, ZHAOCHUN REN
 
-**Project**
+**Information**
 - Investigate the problem of user behavior leakage in recommender systems and we propose a
 privacy-protection mechanism to solve the problem correspondingly. 
 
 </div>
 </div>
+- [Natural Language Processing And Intelligent Search Algorithm Based On Deep Learning Model], Hanbing Wang, **EI Compendex**
+- [Design and Implementation of Personalized Intelligent News Information 
+Retrieval Algorithm Based on Random Forest Algorithm], Hanbing Wang, **EI Compendex**
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
