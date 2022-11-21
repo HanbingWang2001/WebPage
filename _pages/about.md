@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am doing my bachelor of science in telecommunication at ChongXin College(崇新学堂), Shandong University and expected to graduate in June 2023. I joined [Information Retrieval Lab](https://ir.sdu.edu.cn/index.htm) in SDU a year ago, working with [Zhaochun Ren(任昭春)](https://ir.sdu.edu.cn/~zhaochunren/), [Pengjie Ren(任鹏杰)](https://pengjieren.github.io/) and [Xin Xin(辛鑫)](https://xinxin-me.github.io/).
+Hi there! I'm a final year B.E. student of Electrical Engineering at ChongXin College(崇新学堂), Shandong University(SDU) and expected to graduate in June 2023. I joined [Information Retrieval Lab](https://ir.sdu.edu.cn/index.htm) in SDU a year ago, working with [Zhaochun Ren(任昭春)](https://ir.sdu.edu.cn/~zhaochunren/), [Pengjie Ren(任鹏杰)](https://pengjieren.github.io/) and [Xin Xin(辛鑫)](https://xinxin-me.github.io/).
 
 <!-- I won first prize scholarships in Research Innovation and Aesthetic Education Accomplishment(Top 3%) and was selected Chongxin College.  -->
 <!-- , supervised by Prof. [Honchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/index.htm). -->
@@ -64,9 +64,10 @@ privacy-protection mechanism to solve the problem correspondingly.
 
 </div>
 </div>
-- [Natural Language Processing And Intelligent Search Algorithm Based On Deep Learning Model], Hanbing Wang, **EI Compendex**
+<!-- - [Natural Language Processing And Intelligent Search Algorithm Based On Deep Learning Model], Hanbing Wang, **EI Compendex**
 - [Design and Implementation of Personalized Intelligent News Information 
-Retrieval Algorithm Based on Random Forest Algorithm], Hanbing Wang, **EI Compendex**
+Retrieval Algorithm Based on Random Forest Algorithm], Hanbing Wang, **EI Compendex** -->
+
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
