@@ -16,21 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Hi there! I'm a first year Ph.D. student of Department of Computer Science and Engineering at Michigan State University, advised by [Jiliang Tang](https://cse.msu.edu/~tangjili/) and [Hui Liu](https://www.egr.msu.edu/people/profile/liuhui7). Before joining DSE Lab, I was an RA at [Information Retrieval Lab](https://ir.sdu.edu.cn/index.htm) in SDU, working with [Zhaochun Ren](https://ir.sdu.edu.cn/~zhaochunren/), [Pengjie Ren](https://pengjieren.github.io/) and [Xin Xin](https://xinxin-me.github.io/).
 
-Hi there! I'm a final year B.E. student of Electrical Engineering at ChongXin College(崇新学堂), Shandong University(SDU) and expected to graduate in June 2023. I joined [Information Retrieval Lab](https://ir.sdu.edu.cn/index.htm) in SDU a year ago, working with [Zhaochun Ren(任昭春)](https://ir.sdu.edu.cn/~zhaochunren/), [Pengjie Ren(任鹏杰)](https://pengjieren.github.io/) and [Xin Xin(辛鑫)](https://xinxin-me.github.io/).
+<!-- Hi there! I'm a final year B.E. student of Electrical Engineering at ChongXin College(崇新学堂), Shandong University(SDU) and expected to graduate in June 2023. I joined [Information Retrieval Lab](https://ir.sdu.edu.cn/index.htm) in SDU a year ago, working with [Zhaochun Ren(任昭春)](https://ir.sdu.edu.cn/~zhaochunren/), [Pengjie Ren(任鹏杰)](https://pengjieren.github.io/) and [Xin Xin(辛鑫)](https://xinxin-me.github.io/). -->
 
 <!-- I won first prize scholarships in Research Innovation and Aesthetic Education Accomplishment(Top 3%) and was selected Chongxin College.  -->
 <!-- , supervised by Prof. [Honchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/index.htm). -->
 
-My research interest is mainly recommender system. I have submitted a paper as second author to TOIS (Accepted), which investigates user privacy leakage in recommender system. I have three patents and two first-author papers about machine learning submitted to EI Compendex. 
+My research interest is mainly recommender system and natural language processing. 
 
-I am almost finished with a paper about multi-behavior recommendation.
 
-I also have two papers on going: one is about tackling fairness/bias issues in graph-based recommendations via reinforcement learning, multi-task learning and graph augmentation (SIGIR2023). The other is about pretrained music recommendation collaborating with Westlake university and Tencent.
-
-I am also familiar with computer vision, front-end development and electrical engineering.
-
-Here is My [CV](CV/HanbingWang.pdf)
+<!-- Here is My [CV](CV/HanbingWang.pdf) -->
 
 <!-- I have a good command of English(IELTS: 7.5) and a good knowledge of recommender system. I'm familiar with popular recommendation algorithms, common datasets, training losses and evaluation metrics. I'm also good at programming to process datasets and implement ideas. 
 
