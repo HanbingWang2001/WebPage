@@ -197,4 +197,4 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 💻 Internships
 - *2023.05 - 2022.08*, Big Search, Baidu Inc, Beijing.
-- *2021.05 - 2022.07*, [IR lab](https://ir.sdu.edu.cn/index.htm), Qingdao.
+- *2021.05 - 2022.07*, Information Retrieval Lab, Shandong University, Qingdao.
