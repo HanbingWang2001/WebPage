@@ -50,7 +50,7 @@ communication courses,  -->
 # 📝 Publications 
 
 <!-- <div class='paper-box'> -->
-<div class='paper-box-text' markdown="">
+<div class='paper-box-text' markdown="1">
 
 **On the User Behavior Leakage from Recommender System Exposure**
 
@@ -62,7 +62,7 @@ privacy-protection mechanism to solve the problem correspondingly.  -->
 
 </div>
 
-<div class='paper-box-text' markdown="">
+<div class='paper-box-text' markdown="1">
 
 **Improving Implicit Feedback-Based Recommendation through Multi-Behavior Alignment**
 
@@ -78,7 +78,7 @@ Retrieval Algorithm Based on Random Forest Algorithm], Hanbing Wang, **EI Compen
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<span class='anchor' id='project-experience'></span>
+<!-- <span class='anchor' id='project-experience'></span> -->
 
 <!-- # 🛠️ Project experience -->
 
