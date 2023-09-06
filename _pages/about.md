@@ -52,7 +52,7 @@ communication courses,  -->
 <!-- <div class='paper-box'> -->
 <div class='paper-box-text' markdown="1">
 
-**On the User Behavior Leakage from Recommender System Exposure**
+**On the User Behavior Leakage from Recommender System Exposure - TOIS2023**
 
 *Xin Xin, Jiyuan Yang, **Hanbing Wang**, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
@@ -64,7 +64,7 @@ privacy-protection mechanism to solve the problem correspondingly.  -->
 
 <div class='paper-box-text' markdown="1">
 
-**Improving Implicit Feedback-Based Recommendation through Multi-Behavior Alignment**
+**Improving Implicit Feedback-Based Recommendation through Multi-Behavior Alignment - SIGIR2023**
 
 *Xin Xin, Xiangyuan Liu, **Hanbing Wang**, Pengjie Ren, Zhumin Chen, Jiahuan Lei, Xinlei Shi, Hengliang Luo, Joemon Jose, Maarten de Rijke and Zhaochun Ren*
 
