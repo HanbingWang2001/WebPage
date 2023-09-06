@@ -78,7 +78,7 @@ Retrieval Algorithm Based on Random Forest Algorithm], Hanbing Wang, **EI Compen
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<span class='anchor' id='project-experience'></span>
+<!-- <span class='anchor' id='project-experience'></span>
 # 🛠️ Project experience
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
@@ -171,7 +171,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - This is an interdisciplinary project between computer science and biology.
 - Mapped the complete signal pathway of hematopoietic cells in human body, and made a web page for display. The webpage supports addition, deletion, modification, search of genes, fisheye magnification and freely adjusting gene arrangement. 
 </div>
-</div>
+</div> -->
 
 <!-- - **Aizoo - A visual deep learning model building and cloud computing platform** I'm in charge of writing some operators and collect information about common operators.  -->
 <!-- - **Laboratory instrument and equipment management system** includes: React based front-end framework, Springboot based back-end and MySQL Database.  -->
@@ -188,8 +188,8 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - *2020.06* Outstanding Youth Volunteer. 
 
 # 📖 Educations
-- *2019.06 - 2023.06 *, Bachelor, Shandong University, Qingdao. 
-- *2023.09 - Now *, PhD, Michigan State University, East Lansing. 
+- *2019.06 - 2023.06*, Bachelor, Shandong University, Qingdao. 
+- *2023.09 - Now*, PhD, Michigan State University, East Lansing. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💬 Invited Talks
