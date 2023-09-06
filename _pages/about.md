@@ -188,11 +188,13 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - *2020.06* Outstanding Youth Volunteer. 
 
 # 📖 Educations
-- *2019.06 - 2022.07 (now)*, Bachelor, Shandong University, Qingdao. 
+- *2019.06 - 2023.06 *, Bachelor, Shandong University, Qingdao. 
+- *2023.09 - Now *, PhD, Michigan State University, East Lansing. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💬 Invited Talks
 - None yet.
 
 # 💻 Internships
-- *2021.05 - 2022.07*, Research Assistant, [IR lab](https://ir.sdu.edu.cn/index.htm), Qingdao.
+- *2023.05 - 2022.08*, Big Search, Baidu Inc, Beijing.
+- *2021.05 - 2022.07*, [IR lab](https://ir.sdu.edu.cn/index.htm), Qingdao.
