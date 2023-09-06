@@ -78,7 +78,7 @@ Retrieval Algorithm Based on Random Forest Algorithm], Hanbing Wang, **EI Compen
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- <span class='anchor' id='project-experience'></span>
+<span class='anchor' id='project-experience'></span>
 # 🛠️ Project experience
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
@@ -92,7 +92,7 @@ Pengjie Ren, **Hanbing Wang**, Hongtao Tian, Guojun Yan, Chaoyu Shi, Min Wei, Ji
 - Develop and test some operators, collect information about these operators(including formulas, backgrounds, source papers, etc) and implement a pedestrian detection task based on Aizoo. 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronic perpetual calendar</div><img src='images/projects/calendar.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronic perpetual calendar</div><img src='images/projects/calendar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Electronic perpetual calendar]
@@ -104,9 +104,9 @@ Pengjie Ren, **Hanbing Wang**, Hongtao Tian, Guojun Yan, Chaoyu Shi, Min Wei, Ji
 - Circuit design and printing, MCU programming, application of various chips such as HC-05, DHT11, DS1302, LCD1602, MQ-2, etc. 
 - Functions include time display, solar terms display, conversion of lunar calendar and Gregorian calendar, alarm clock with customized music, smoke alarm, measurements of temperature and humidity, remote Bluetooth control. 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Driverless Assistant Aystem</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Driverless Assistant Aystem</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A full stack driverless assistant system based on Huawei Ascend]
@@ -118,9 +118,9 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - Hardware includes the use of Raspberry Pi, Zynq, Atlas 200DK, 3D-printing, Wireless video signal transmission.
 - Software includes improving the effciency of real time object detection algorithm, design a webpage to display all the information. 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/projects/transfer.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/projects/transfer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A real time image style transfer system]
@@ -132,9 +132,9 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - Developed a computer application which can achieve style transfer as long as you download our app. 
 - Software includes real time style transfer algorithm, webpage design, video streaming and application development. 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Equipment Management System</div><img src='images/projects/deviceManagement.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Equipment Management System</div><img src='images/projects/deviceManagement.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Laboratory instrument and equipment management system]
@@ -145,9 +145,9 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - Developed an online equipment Management System including React based front-end, Springboot based back-end and MySQL Database. 
 - Functions includes data addition, deletion, modification query, system login, fuzzy search, paging display, data statistics(according to price or quantity) and statistics display(line chart).
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/law.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/law.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Research on copyright protection obligations and technical regulation of cloud storage service providers based on deep learning ——Take Baidu online disk as an example]
@@ -158,9 +158,9 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - This is an interdisciplinary project between computer science and law. 
 - Knowledge includes fast video/image/text detection and comparison algorithm in various situations. 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/biology.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/biology.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An online website for querying the signal pathways of hematopoietic cells in human body]
