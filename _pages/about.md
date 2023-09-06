@@ -79,6 +79,7 @@ Retrieval Algorithm Based on Random Forest Algorithm], Hanbing Wang, **EI Compen
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <span class='anchor' id='project-experience'></span>
+
 <!-- # 🛠️ Project experience -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
@@ -92,10 +93,11 @@ Pengjie Ren, **Hanbing Wang**, Hongtao Tian, Guojun Yan, Chaoyu Shi, Min Wei, Ji
 - Develop and test some operators, collect information about these operators(including formulas, backgrounds, source papers, etc) and implement a pedestrian detection task based on Aizoo. 
 </div>
 </div> -->
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronic perpetual calendar</div><img src='images/projects/calendar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [Electronic perpetual calendar]
+[Electronic perpetual calendar]
 
 **Hanbing Wang**
 
@@ -104,7 +106,7 @@ Pengjie Ren, **Hanbing Wang**, Hongtao Tian, Guojun Yan, Chaoyu Shi, Min Wei, Ji
 - Circuit design and printing, MCU programming, application of various chips such as HC-05, DHT11, DS1302, LCD1602, MQ-2, etc. 
 - Functions include time display, solar terms display, conversion of lunar calendar and Gregorian calendar, alarm clock with customized music, smoke alarm, measurements of temperature and humidity, remote Bluetooth control. 
 </div>
-</div> --> -->
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Driverless Assistant Aystem</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
