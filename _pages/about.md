@@ -49,19 +49,19 @@ communication courses,  -->
 <!-- <div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/publications/tois23.png' alt="sym" width="100%"></div></div> -->
 # 📝 Publications 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'> -->
 <div class='paper-box-text' markdown="1">
 
 **On the User Behavior Leakage from Recommender System Exposure**
 
 XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINLEI SHI, ZHUMIN CHEN, ZHAOCHUN REN
 
-**Information**
+<!-- **Information**
 - Investigate the problem of user behavior leakage in recommender systems and we propose a
-privacy-protection mechanism to solve the problem correspondingly. 
+privacy-protection mechanism to solve the problem correspondingly.  -->
 
 </div>
-</div>
+<!-- </div> -->
 <!-- - [Natural Language Processing And Intelligent Search Algorithm Based On Deep Learning Model], Hanbing Wang, **EI Compendex**
 - [Design and Implementation of Personalized Intelligent News Information 
 Retrieval Algorithm Based on Random Forest Algorithm], Hanbing Wang, **EI Compendex** -->
