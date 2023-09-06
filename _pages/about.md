@@ -25,6 +25,8 @@ Hi there! I'm a first year Ph.D. student of Department of Computer Science and E
 
 My research interest is mainly recommender system and natural language processing. 
 
+Email address: wangh137 at msu.edu
+
 
 <!-- Here is My [CV](CV/HanbingWang.pdf) -->
 
