@@ -46,10 +46,10 @@ communication courses,  -->
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+<!-- <div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/publications/tois23.png' alt="sym" width="100%"></div></div> -->
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/publications/tois23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 **On the User Behavior Leakage from Recommender System Exposure**
