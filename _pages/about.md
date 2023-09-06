@@ -50,17 +50,26 @@ communication courses,  -->
 # 📝 Publications 
 
 <!-- <div class='paper-box'> -->
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="">
 
 **On the User Behavior Leakage from Recommender System Exposure**
 
-XIN XIN, JIYUAN YANG, **HANBING WANG**, JUN MA, PENGJIE REN, HENGLIANG LUO, XINLEI SHI, ZHUMIN CHEN, ZHAOCHUN REN
+Xin Xin, Jiyuan Yang, **Hanbing Wang**, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren
 
 <!-- **Information**
 - Investigate the problem of user behavior leakage in recommender systems and we propose a
 privacy-protection mechanism to solve the problem correspondingly.  -->
 
 </div>
+
+<div class='paper-box-text' markdown="">
+
+**Improving Implicit Feedback-Based Recommendation through Multi-Behavior Alignment**
+
+Xin Xin, Xiangyuan Liu, **Hanbing Wang**, Pengjie Ren, Zhumin Chen, Jiahuan Lei, Xinlei Shi, Hengliang Luo, Joemon Jose, Maarten de Rijke and Zhaochun Ren
+
+</div>
+
 <!-- </div> -->
 <!-- - [Natural Language Processing And Intelligent Search Algorithm Based On Deep Learning Model], Hanbing Wang, **EI Compendex**
 - [Design and Implementation of Personalized Intelligent News Information 
