@@ -52,9 +52,21 @@ communication courses,  -->
 <!-- <div class='paper-box'> -->
 <div class='paper-box-text' markdown="1">
 
+**Rethinking Large Language Model Architectures for Sequential Recommendations**
+
+* Hanbing Wang, Xiaorui Liu, Wenqi Fan, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu*
+
+<div class='paper-box-text' markdown="1">
+
+**Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**
+
+*Jiyuan Yang, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
+
+<div class='paper-box-text' markdown="1">
+
 **On the User Behavior Leakage from Recommender System Exposure - TOIS2023**
 
-*Xin Xin, Jiyuan Yang, **Hanbing Wang**, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
+*Xin Xin, Jiyuan Yang, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
 <!-- **Information**
 - Investigate the problem of user behavior leakage in recommender systems and we propose a
@@ -66,7 +78,7 @@ privacy-protection mechanism to solve the problem correspondingly.  -->
 
 **Improving Implicit Feedback-Based Recommendation through Multi-Behavior Alignment - SIGIR2023**
 
-*Xin Xin, Xiangyuan Liu, **Hanbing Wang**, Pengjie Ren, Zhumin Chen, Jiahuan Lei, Xinlei Shi, Hengliang Luo, Joemon Jose, Maarten de Rijke and Zhaochun Ren*
+*Xin Xin, Xiangyuan Liu, Hanbing Wang, Pengjie Ren, Zhumin Chen, Jiahuan Lei, Xinlei Shi, Hengliang Luo, Joemon Jose, Maarten de Rijke and Zhaochun Ren*
 
 </div>
 
@@ -200,5 +212,6 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - None yet.
 
 # 💻 Internships
+- *2024.05 - 2024.08*, Prime Video, Amazon, Seattle.
 - *2023.05 - 2023.08*, Big Search, Baidu Inc, Beijing.
 - *2021.05 - 2023.07*, Information Retrieval Lab, Shandong University, Qingdao.
