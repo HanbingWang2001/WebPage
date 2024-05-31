@@ -54,7 +54,7 @@ communication courses,  -->
 
 **Rethinking Large Language Model Architectures for Sequential Recommendations**
 
-* Hanbing Wang, Xiaorui Liu, Wenqi Fan, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu*
+*Hanbing Wang, Xiaorui Liu, Wenqi Fan, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu*
 
 <div class='paper-box-text' markdown="1">
 
